@@ -1,2 +1,2 @@
 # HyprlandDotfiles
-Work in progress
+My personal config files 2026
